@@ -8,7 +8,7 @@ This is the Github Repo for Bayesian Learning of Clinically Meaningful Sepsis Ph
 
 ## INDITe Analysis
 * ```cluster_parallel.R``` contains the code used to analyze the INDITe data in Section 4.
-* ````indite_vanilla.R`` and ```indite_standard_methods.R``` implement the analysis in Section 4.4.
+* ```indite_vanilla.R``` and ```indite_standard_methods.R``` implement the analysis in Section 4.4.
 * ```lca_comparison.R``` fits a latent class model to the INDITe data.
 
 ## Simulation Studies
